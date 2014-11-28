@@ -1,6 +1,5 @@
 Modules Manager
 ===============
-
 A simple script to help organize javascript modules
 
 ##Why
